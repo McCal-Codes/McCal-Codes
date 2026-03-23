@@ -17,7 +17,7 @@
   <a href="https://github.com/McCal-Codes/TerraNova/releases">
     <img src="https://img.shields.io/badge/TerraNova-Download%20Latest-3A5A40?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[https://github.com/McCal-Codes/Abridgd](https://github.com/McCal-Codes/abridgd/releases)">
+  <a href="https://github.com/McCal-Codes/abridgd/releases">
     <img src="https://img.shields.io/badge/Abridgd-Download%20Latest-6D597A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://mcc-cal.com">
