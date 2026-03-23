@@ -10,18 +10,23 @@
 </p>
 
 ---
-
 ## Downloads
 
 <p align="center">
-  <a href="https://github.com/McCal-Codes/TerraNova/releases">
-    <img src="https://img.shields.io/badge/TerraNova-Download%20Latest-3A5A40?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/HyperSystems-Development/TerraNova/releases">
+    <img src="https://img.shields.io/badge/TerraNova-Download%20Builds-3A5A40?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/McCal-Codes/abridgd/releases">
-    <img src="https://img.shields.io/badge/Abridgd-Download%20Latest-6D597A?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Abridgd-iOS%20Builds-6D597A?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://mcc-cal.com">
-    <img src="https://img.shields.io/badge/Website-Visit-B08968?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/McCal%20Media-Visit%20Website-B08968?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
