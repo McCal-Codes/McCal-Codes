@@ -50,18 +50,31 @@ My work focuses on building **procedural systems, creative tools, and web platfo
 
 A terrain generation studio for the Hytale ecosystem, focused on procedural systems and creator tooling.
 
+**Editor & Terrain System**
+
+<p align="center">
+  <img src="assets/previews/TerraNova/terranova-editor.png" alt="TerraNova Editor" width="900" />
+</p>
+
+**Environment & Weather System**
+
+<p align="center">
+  <img src="assets/previews/TerraNova/terranova-weather.png" alt="TerraNova Weather System" width="900" />
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/Procedural%20Generation-3A5A40?style=flat-square" />
   <img src="https://img.shields.io/badge/Worldgen-588157?style=flat-square" />
   <img src="https://img.shields.io/badge/Systems-3C6E71?style=flat-square" />
-  <img src="https://img.shields.io/badge/Team%20Project-264653?style=flat-square" />
+  <img src="https://img.shields.io/badge/Editor%20Tools-264653?style=flat-square" />
 </p>
 
 | Focus | Details |
 |------|--------|
 | Core Systems | Terrain density, biome composition |
-| Architecture | Modular, node-based workflows |
-| Role | Contributor (systems, tooling, design) |
+| Editor | Node-based terrain + live preview |
+| Environment | Weather, lighting, and atmosphere systems |
+| Role | Contributor (systems, tooling, UI) |
 | Goal | Make complex worldgen accessible to creators |
 
 **Links**
