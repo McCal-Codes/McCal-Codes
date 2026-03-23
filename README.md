@@ -1,118 +1,176 @@
-<h1 align="center">Hi, I'm Caleb 👋</h1>
-
 <p align="center">
-  <strong>Developer • Photographer • Systems Builder</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F3E46,100:B08968&height=200&section=header&text=Caleb%20McCartney&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+<p align="center">
+  <strong>Creative Technologist • Photographer • Software Engineer</strong>
 </p>
 
 <p align="center">
-  Building procedural worlds, creative tools, and thoughtful software systems.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Procedural+World+Generation;Creative+Software+Development;Design+Systems+Engineering;Storytelling+Through+Technology&center=true&width=600&height=45&color=C9B8A6&vCenter=true&size=22">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Procedural%20Generation-3A5A40?style=for-the-badge&logo=world&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creative%20Software-6D597A?style=for-the-badge&logo=appveyor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design%20Systems-B08968?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photography-2F3E46?style=for-the-badge&logo=camera&logoColor=white" />
+  Building tools, systems, and platforms at the intersection of technology, storytelling, and design.
 </p>
 
 ---
 
-## 🧭 About Me
+## Downloads
 
-I'm a developer and photographer based in Pennsylvania.
-
-My work lives where **engineering, storytelling, and design** overlap.
-
-I’m especially interested in systems that create room for emergence, exploration, and expression.
-
-- 🌍 Procedural world generation  
-- 🎨 Design systems and UI architecture  
-- 🧠 Creative software tools  
-- 📷 Storytelling through visual media  
+<p align="center">
+  <a href="https://github.com/McCal-Codes/TerraNova/releases">
+    <img src="https://img.shields.io/badge/TerraNova-Download%20Latest-3A5A40?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="[https://github.com/McCal-Codes/Abridgd](https://github.com/McCal-Codes/abridgd/releases)">
+    <img src="https://img.shields.io/badge/Abridgd-Download%20Latest-6D597A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://mcc-cal.com">
+    <img src="https://img.shields.io/badge/Website-Visit-B08968?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Current Projects
+## About
 
-### 🌍 TerraNova
-A large-scale **procedural world generation project for Hytale**.
+I’m a developer and photographer based in Pennsylvania.
 
-**Focus areas**
-- Biome architecture  
-- Terrain density systems  
-- Node-based worldgen workflows  
-- Environmental storytelling  
-- Modding infrastructure  
+My work focuses on building **procedural systems, creative tools, and web platforms** that prioritize clarity, usability, and real-world impact.
+
+**Areas of focus:**
+
+- Procedural world generation  
+- Developer and creative tooling  
+- Web platforms and design systems  
+- Editorial and documentary photography  
+
+
+---
+## Projects
+
+---
+
+### TerraNova
+
+A terrain generation studio for the Hytale ecosystem, focused on procedural systems and creator tooling.
 
 <p>
-  <img src="https://img.shields.io/badge/Hytale%20Worldgen-5465FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Biomes-5C8001?style=flat-square" />
+  <img src="https://img.shields.io/badge/Procedural%20Generation-3A5A40?style=flat-square" />
+  <img src="https://img.shields.io/badge/Worldgen-588157?style=flat-square" />
   <img src="https://img.shields.io/badge/Systems-3C6E71?style=flat-square" />
+  <img src="https://img.shields.io/badge/Team%20Project-264653?style=flat-square" />
 </p>
+
+| Focus | Details |
+|------|--------|
+| Core Systems | Terrain density, biome composition |
+| Architecture | Modular, node-based workflows |
+| Role | Contributor (systems, tooling, design) |
+| Goal | Make complex worldgen accessible to creators |
+
+**Links**
+- Download: https://github.com/HyperSystems-Development/TerraNova/releases  
+- Repo: https://github.com/HyperSystems-Development/TerraNova  
 
 ---
 
-### 📰 Abridged
-A minimalist **news reader** designed to reduce doomscrolling and make complex information easier to process.
+### Abridgd
 
-**Goals**
-- Clear summaries  
-- Reduced information overload  
-- Healthier media consumption  
-- Calm reading experience  
+An open-source news reader focused on clarity and reducing information overload.
 
 <p>
-  <img src="https://img.shields.io/badge/News%20Reader-1D3557?style=flat-square" />
-  <img src="https://img.shields.io/badge/UX%20Focused-457B9D?style=flat-square" />
-  <img src="https://img.shields.io/badge/Clarity-E9C46A?style=flat-square" />
+  <img src="https://img.shields.io/badge/UX-6D597A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend-457B9D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-2A9D8F?style=flat-square" />
+  <img src="https://img.shields.io/badge/iOS-1D3557?style=flat-square" />
 </p>
+
+| Focus | Details |
+|------|--------|
+| Experience | Clean, distraction-free reading |
+| Platform | iOS app (active development) |
+| Design | Minimal UI, reduced cognitive load |
+| Goal | Improve how people consume information |
+
+**Links**
+- App Releases: https://github.com/McCal-Codes/abridgd/releases  
+- Repo: https://github.com/McCal-Codes/abridgd  
 
 ---
 
-### 🌐 McCal Media Platform
-My personal **custom-coded web platform**.
+### McCal Media Platform
 
-Originally built to move beyond Squarespace, it evolved into a modular system with reusable components and a design-token-driven UI.
-
-**Features**
-- Modular widget architecture  
-- Design token system  
-- Portfolio and podcast integration  
-- CDN-hosted components  
-
-🔗 **Website:** [mcc-cal.com](https://mcc-cal.com)
+A custom-built web platform for publishing photography and media.
 
 <p>
-  <img src="https://img.shields.io/badge/Web%20Platform-8D6A9F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Widgets-C97B84?style=flat-square" />
-  <img src="https://img.shields.io/badge/Design%20Tokens-D4A373?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web%20Platform-B08968?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design%20System-D4A373?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend-1D3557?style=flat-square" />
+</p>
+
+| Focus | Details |
+|------|--------|
+| System | Modular component architecture |
+| UI | Design-token-driven system |
+| Platform | Custom-coded (no CMS) |
+| Goal | Full control over content and presentation |
+
+**Links**
+- Website: https://mcc-cal.com  
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,git,github,nodejs,vscode,figma,java,cpp,python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F4A261?style=flat-square&logo=javascript&logoColor=111" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-457B9D?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E63946?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1D3557?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-264653?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/GIT-2A9D8F?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE-588157?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIGMA-7B2CBF?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+### Core
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,git,nodejs,react,figma,vscode,md" />
-</p>
+| JavaScript | TypeScript | HTML | CSS | React |
+|------------|------------|------|-----|-------|
+| <img src="https://skillicons.dev/icons?i=js" width="40"/> | <img src="https://skillicons.dev/icons?i=ts" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=css" width="40"/> | <img src="https://skillicons.dev/icons?i=react" width="40"/> |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-E76F51?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F4A261?style=for-the-badge&logo=javascript&logoColor=111" />
-  <img src="https://img.shields.io/badge/HTML-E63946?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-457B9D?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-2A9D8F?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node-588157?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-7B2CBF?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+### Tools
+
+| Git | GitHub | Node.js | VS Code | Figma |
+|-----|--------|---------|---------|-------|
+| <img src="https://skillicons.dev/icons?i=git" width="40"/> | <img src="https://skillicons.dev/icons?i=github" width="40"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> | <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | <img src="https://skillicons.dev/icons?i=figma" width="40"/> |
+
+### Additional
+
+| Java | C++ | Python |
+|------|-----|--------|
+| <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=cpp" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> |
 
 ---
 
-## 📌 Featured Projects
+## Photography
+
+I work as a photojournalist and event photographer.
+
+**Published in:**
+
+- The New York Post  
+- Pittsburgh Magazine  
+- PublicSource  
+- Union Progress  
+- Technical.ly  
+
+Focus: real-world storytelling, events, and editorial work.
+
+---
+
+## Featured Repository
 
 <p align="center">
   <a href="https://github.com/McCal-Codes/TerraNova">
@@ -122,41 +180,19 @@ Originally built to move beyond Squarespace, it evolved into a modular system wi
 
 ---
 
-## 📷 Creative Work
+## Current Focus
 
-Outside of development, I work as a **photojournalist and visual storyteller**.
-
-I document:
-- Political campaigns  
-- Cultural events  
-- Environmental landscapes  
-
-🔗 **Portfolio:** [mcc-cal.com](https://mcc-cal.com)
-
-<p>
-  <img src="https://img.shields.io/badge/Photojournalism-344E41?style=flat-square" />
-  <img src="https://img.shields.io/badge/Storytelling-A98467?style=flat-square" />
-  <img src="https://img.shields.io/badge/Visual%20Media-6C757D?style=flat-square" />
-</p>
+- Expanding TerraNova into a full terrain design tool  
+- Developing Abridgd as an open-source reading platform  
+- Building scalable web platforms  
+- Continuing editorial and documentary photography  
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=McCal-Codes&show_icons=true&count_private=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McCal-Codes&layout=compact&theme=transparent" />
-</p>
-
----
-
-## 🔗 Connect
+## Contact
 
 <p align="center">
   <a href="https://mcc-cal.com">
     <img src="https://img.shields.io/badge/Website-mcc--cal.com-C2B6A5?style=for-the-badge&logo=googlechrome&logoColor=111" />
-  </a>
-  <a href="https://github.com/McCal-Codes">
-    <img src="https://img.shields.io/badge/GitHub-McCal--Codes-2B2D42?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
