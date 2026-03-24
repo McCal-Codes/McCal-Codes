@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F3E46,100:B08968&height=200&section=header&text=Caleb%20McCartney&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 <p align="center">
-  <strong>Creative Technologist • Photographer • Software Engineer</strong>
+  <strong>Self-taught Full Stack Developer with a focus on building scalable web applications, developer tools, and user-centered interfaces.
+
+Experience developing procedural systems, frontend applications, and custom platforms. Strong background in design and UX through professional photography work.
 </p>
 
 <p align="center">
