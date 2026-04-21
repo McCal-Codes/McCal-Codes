@@ -179,6 +179,7 @@ I work as a photojournalist and event photographer.
 - PublicSource  
 - Union Progress  
 - Technical.ly  
+- TribLive
 
 Focus: real-world storytelling, events, and editorial work.
 
