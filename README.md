@@ -37,24 +37,22 @@
 
 ## About
 
-I’m a developer, photographer, and systems builder based in Pennsylvania.
+I'm a developer, photographer, and systems builder based in Pennsylvania.
 
 My work focuses on building **procedural systems, creative tools, local AI workflows, CMS/client sites, and web platforms** that prioritize clarity, usability, and real-world impact.
 
 **Areas of focus:**
 
-- Procedural world generation  
-- Local AI agents and developer tooling  
-- Web platforms and design systems  
-- WordPress, PHP, and CMS-based client sites  
-- Editorial and documentary photography  
-- Creative workflow automation  
+- Procedural world generation
+- Local AI agents and developer tooling
+- Web platforms and design systems
+- WordPress, PHP, and CMS-based client sites
+- Editorial and documentary photography
+- Creative workflow automation
 
 ---
 
 ## Projects
-
----
 
 ### TerraNova
 
@@ -81,25 +79,20 @@ A terrain generation studio for the Hytale ecosystem, focused on procedural syst
 </p>
 
 | Focus | Details |
-|------|--------|
+|-------|---------|
 | Core Systems | Terrain density, biome composition, worldgen logic |
 | Editor | Node-based terrain editing and live preview tooling |
 | Environment | Weather, lighting, atmosphere, tint, and biome mood systems |
 | Role | Contributor focused on systems, tooling, UI, and workflow design |
 | Goal | Make complex worldgen accessible, visual, and controllable for creators |
 
-**Links**
-
-- Download: https://github.com/HyperSystems-Development/TerraNova/releases  
-- Repo: https://github.com/HyperSystems-Development/TerraNova  
+**Links** — [Download](https://github.com/HyperSystems-Development/TerraNova/releases) · [Repo](https://github.com/HyperSystems-Development/TerraNova)
 
 ---
 
 ### Ferret
 
-A local-first AI agent system for development workflows, automation, debugging, and tool orchestration.
-
-Formerly known as **Claw Dev**.
+A local-first AI agent system for development workflows, automation, debugging, and tool orchestration. Formerly known as **Claw Dev**.
 
 <p>
   <img src="https://img.shields.io/badge/Local%20AI-3A5A40?style=flat-square" />
@@ -110,16 +103,14 @@ Formerly known as **Claw Dev**.
 </p>
 
 | Focus | Details |
-|------|--------|
+|-------|---------|
 | System | Local AI agent runtime for coding and automation |
 | Architecture | Planner → Executor → Tool Router |
 | Models | Ollama and local LLM proxy workflows |
 | Tooling | MCP, filesystem tools, IDE integration, plugin workflows |
 | Goal | Build reliable local-first AI workflows for coding, debugging, and system automation |
 
-**Links**
-
-- Repo: https://github.com/McCal-Codes/Ferret  
+**Links** — [Repo](https://github.com/McCal-Codes/Ferret)
 
 ---
 
@@ -135,16 +126,13 @@ An open-source news reader focused on clarity, calmer reading, and reducing info
 </p>
 
 | Focus | Details |
-|------|--------|
+|-------|---------|
 | Experience | Clean, distraction-free reading |
 | Platform | iOS app in active development |
 | Design | Minimal UI, reduced cognitive load, readable information hierarchy |
 | Goal | Improve how people consume, scan, and understand news |
 
-**Links**
-
-- App Releases: https://github.com/McCal-Codes/abridgd/releases  
-- Repo: https://github.com/McCal-Codes/abridgd  
+**Links** — [App Releases](https://github.com/McCal-Codes/abridgd/releases) · [Repo](https://github.com/McCal-Codes/abridgd)
 
 ---
 
@@ -161,19 +149,12 @@ Client-focused website development, customization, and CMS workflow improvements
 </p>
 
 | Focus | Details |
-|------|--------|
+|-------|---------|
 | CMS Work | WordPress site setup, customization, and maintenance |
 | PHP | Theme edits, template logic, and plugin-oriented workflows |
 | Frontend | HTML, CSS, responsive layout, and UI refinements |
 | Client Systems | Forms, content structure, site updates, and workflow fixes |
 | Goal | Build practical, maintainable websites for real-world users and organizations |
-
-**Related Work**
-
-- WordPress customization  
-- PHP-based site edits  
-- Website audits and rebuild planning  
-- Client-facing web maintenance  
 
 ---
 
@@ -189,15 +170,13 @@ A custom-built web platform for publishing photography, editorial work, and medi
 </p>
 
 | Focus | Details |
-|------|--------|
+|-------|---------|
 | System | Modular web platform for publishing photography and media |
 | UI | Design-token-driven layout and reusable components |
 | Platform | Custom-coded site architecture |
 | Goal | Full control over presentation, storytelling, and portfolio structure |
 
-**Links**
-
-- Website: https://mcc-cal.com  
+**Links** — [Website](https://mcc-cal.com)
 
 ---
 
@@ -205,9 +184,9 @@ A custom-built web platform for publishing photography, editorial work, and medi
 
 I approach systems through a consistent architecture:
 
-Inputs / State
-→ Transformations, logic, constraints
-→ Outputs, side effects, UI, behavior
+```
+Inputs / State  →  Transformations, logic, constraints  →  Outputs, side effects, UI, behavior
+```
 
 This keeps projects structured, debuggable, and easier to extend.
 
@@ -216,7 +195,7 @@ This keeps projects structured, debuggable, and easier to extend.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,php,wordpress,git,github,nodejs,vscode,figma,java,cpp,python,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,swift,php,wordpress,nodejs,git,github,vscode,figma,java,cpp,python,docker,sqlite" />
 </p>
 
 <p align="center">
@@ -225,34 +204,16 @@ This keeps projects structured, debuggable, and easier to extend.
   <img src="https://img.shields.io/badge/HTML-E63946?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1D3557?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/REACT-264653?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/SWIFT-F05138?style=flat-square&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-2A9D8F?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/NODE-588157?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-2A9D8F?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/FIGMA-7B2CBF?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/DOCKER-457B9D?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/LOCAL%20AI-3A5A40?style=flat-square" />
 </p>
-
----
-
-### Core
-
-| JavaScript | TypeScript | HTML | CSS | React | PHP | WordPress |
-|------------|------------|------|-----|-------|-----|-----------|
-| <img src="https://skillicons.dev/icons?i=js" width="40"/> | <img src="https://skillicons.dev/icons?i=ts" width="40"/> | <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=css" width="40"/> | <img src="https://skillicons.dev/icons?i=react" width="40"/> | <img src="https://skillicons.dev/icons?i=php" width="40"/> | <img src="https://skillicons.dev/icons?i=wordpress" width="40"/> |
-
-### Tools
-
-| Git | GitHub | Node.js | VS Code | Figma |
-|-----|--------|---------|---------|-------|
-| <img src="https://skillicons.dev/icons?i=git" width="40"/> | <img src="https://skillicons.dev/icons?i=github" width="40"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> | <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | <img src="https://skillicons.dev/icons?i=figma" width="40"/> |
-
-### Additional
-
-| Java | C++ | Python | Docker |
-|------|-----|--------|--------|
-| <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=cpp" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=docker" width="40"/> |
 
 ---
 
@@ -260,14 +221,7 @@ This keeps projects structured, debuggable, and easier to extend.
 
 I work as a photojournalist, event photographer, and visual storyteller.
 
-**Published in:**
-
-- The New York Post  
-- Pittsburgh Magazine  
-- PublicSource  
-- Union Progress  
-- Technical.ly  
-- TribLive  
+**Published in:** The New York Post · Pittsburgh Magazine · PublicSource · Union Progress · Technical.ly · TribLive
 
 Focus: real-world storytelling, editorial assignments, events, documentary photography, and visual systems for publishing work.
 
@@ -277,32 +231,42 @@ Focus: real-world storytelling, editorial assignments, events, documentary photo
 
 <p align="center">
   <a href="https://github.com/HyperSystems-Development/TerraNova">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HyperSystems-Development&repo=TerraNova&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HyperSystems-Development&repo=TerraNova&theme=dark&bg_color=2F3E46&title_color=B08968&icon_color=B08968&text_color=ffffff&border_color=3C6E71" />
+  </a>
+  <a href="https://github.com/McCal-Codes/Ferret">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=McCal-Codes&repo=Ferret&theme=dark&bg_color=2F3E46&title_color=B08968&icon_color=B08968&text_color=ffffff&border_color=3C6E71" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/McCal-Codes/abridgd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=McCal-Codes&repo=abridgd&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=McCal-Codes&repo=abridgd&theme=dark&bg_color=2F3E46&title_color=B08968&icon_color=B08968&text_color=ffffff&border_color=3C6E71" />
   </a>
 </p>
 
+---
+
+## Stats
+
 <p align="center">
-  <a href="https://github.com/McCal-Codes/Ferret">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=McCal-Codes&repo=Ferret&theme=transparent" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=McCal-Codes&show_icons=true&theme=dark&bg_color=2F3E46&title_color=B08968&icon_color=B08968&text_color=ffffff&border_color=3C6E71&hide_border=false&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McCal-Codes&layout=compact&theme=dark&bg_color=2F3E46&title_color=B08968&text_color=ffffff&border_color=3C6E71&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=McCal-Codes&theme=dark&background=2F3E46&ring=B08968&fire=B08968&currStreakLabel=B08968&sideLabels=B08968&dates=ffffff&border=3C6E71" />
 </p>
 
 ---
 
 ## Current Focus
 
-- Expanding TerraNova into a full terrain design tool  
-- Building Ferret as a local-first AI agent system  
-- Developing Abridgd as an open-source reading platform  
-- Building scalable web platforms with TypeScript and modern frontend tooling  
-- Improving WordPress and PHP workflows for client websites  
-- Continuing editorial and documentary photography  
+- Expanding TerraNova into a full terrain design tool
+- Building Ferret as a local-first AI agent system
+- Developing Abridgd as an open-source reading platform
+- Building scalable web platforms with TypeScript and modern frontend tooling
+- Improving WordPress and PHP workflows for client websites
+- Continuing editorial and documentary photography
 
 ---
 
