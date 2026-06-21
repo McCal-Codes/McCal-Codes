@@ -1,23 +1,15 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F3E46,100:B08968&height=200&section=header&text=Caleb%20McCartney&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F3E46,100:B08968&height=180&section=header&text=Caleb%20McCartney&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <strong>Developer, photographer, and systems builder focused on creative tools, local AI workflows, CMS platforms, and user-centered interfaces.</strong>
+  <strong>Developer, photographer, and systems builder working across creative tools, web platforms, local AI, and procedural systems.</strong>
 </p>
 
 <p align="center">
-  I build procedural systems, frontend applications, WordPress/PHP sites, creative workflow tools, and custom platforms. My background in professional photography and photojournalism shapes how I approach design, storytelling, usability, and real-world workflows.
+  I build practical software for storytelling, workflow automation, world generation, publishing, and user-centered tools.
 </p>
-
-<p align="center">
-  Building tools, systems, and platforms at the intersection of technology, storytelling, and design.
-</p>
-
----
-
-## Downloads
 
 <p align="center">
   <a href="https://github.com/McCal-Codes/TerraNova/releases">
@@ -30,7 +22,7 @@
     <img src="https://img.shields.io/badge/Ferret-Local%20AI%20Agent-3C6E71?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://mcc-cal.com">
-    <img src="https://img.shields.io/badge/McCal%20Media-Visit%20Website-B08968?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-mcc--cal.com-B08968?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -38,54 +30,36 @@
 
 ## About
 
-I'm a developer, photographer, and systems builder based in Pennsylvania.
+I'm Caleb McCartney, a developer and professional photographer based in Pennsylvania.
 
-My work focuses on building **procedural systems, creative tools, local AI workflows, CMS/client sites, and web platforms** that prioritize clarity, usability, maintainability, and real-world impact.
+My work sits at the intersection of **software, storytelling, design, and systems thinking**. I build tools that are practical, readable, and useful in real workflows.
 
-**Areas of focus:**
+**Current focus:**
 
-- Procedural world generation
-- Local AI agents and developer tooling
-- Web platforms and design systems
-- WordPress, PHP, and CMS-based client sites
+- Procedural world generation tools
+- Local-first AI agents and developer workflows
+- Web platforms and CMS/client sites
 - Editorial and documentary photography
 - Creative workflow automation
 
 ---
 
-## Projects
+## Featured Projects
 
 ### TerraNova
 
-A terrain generation studio for the Hytale ecosystem, focused on procedural systems, biome design, worldgen editing, and creator tooling.
-
-**Editor & Terrain System**
+A terrain generation studio for the Hytale ecosystem, focused on worldgen editing, biome design, terrain previewing, and creator tooling.
 
 <p align="center">
   <img src="assets/previews/TerraNova/terranova-editor.png" alt="TerraNova Editor" width="900" />
 </p>
 
-**Environment & Weather System**
-
-<p align="center">
-  <img src="assets/previews/TerraNova/terranova-weather.png" alt="TerraNova Weather System" width="900" />
-</p>
-
 <p>
   <img src="https://img.shields.io/badge/Procedural%20Generation-3A5A40?style=flat-square" />
   <img src="https://img.shields.io/badge/Worldgen-588157?style=flat-square" />
-  <img src="https://img.shields.io/badge/Systems-3C6E71?style=flat-square" />
   <img src="https://img.shields.io/badge/Editor%20Tools-264653?style=flat-square" />
   <img src="https://img.shields.io/badge/Hytale-B08968?style=flat-square" />
 </p>
-
-| Focus | Details |
-|-------|---------|
-| Core Systems | Terrain density, biome composition, worldgen logic |
-| Editor | Node-based terrain editing and live preview tooling |
-| Environment | Weather, lighting, atmosphere, tint, and biome mood systems |
-| Role | Creator and developer focused on systems, tooling, UI, and workflow design |
-| Goal | Make complex worldgen accessible, visual, and controllable for creators |
 
 **Links** — [Download](https://github.com/McCal-Codes/TerraNova/releases) · [Repo](https://github.com/McCal-Codes/TerraNova)
 
@@ -93,7 +67,7 @@ A terrain generation studio for the Hytale ecosystem, focused on procedural syst
 
 ### Ferret
 
-A local-first AI agent system for development workflows, automation, debugging, and tool orchestration. Formerly known as **Claw Dev**.
+A local-first AI agent system for coding, debugging, automation, and tool orchestration.
 
 <p>
   <img src="https://img.shields.io/badge/Local%20AI-3A5A40?style=flat-square" />
@@ -103,21 +77,13 @@ A local-first AI agent system for development workflows, automation, debugging, 
   <img src="https://img.shields.io/badge/MCP-6D597A?style=flat-square" />
 </p>
 
-| Focus | Details |
-|-------|---------|
-| System | Local AI agent runtime for coding and automation |
-| Architecture | Planner → Executor → Tool Router |
-| Models | Ollama and local LLM proxy workflows |
-| Tooling | MCP, filesystem tools, IDE integration, plugin workflows |
-| Goal | Build reliable local-first AI workflows for coding, debugging, and system automation |
-
 **Links** — [Repo](https://github.com/McCal-Codes/Ferret)
 
 ---
 
 ### Abridgd
 
-An open-source news reader focused on clarity, calmer reading, and reducing information overload.
+An open-source news reader focused on calmer reading, clarity, and reducing information overload.
 
 <p>
   <img src="https://img.shields.io/badge/UX-6D597A?style=flat-square" />
@@ -126,70 +92,21 @@ An open-source news reader focused on clarity, calmer reading, and reducing info
   <img src="https://img.shields.io/badge/iOS-1D3557?style=flat-square" />
 </p>
 
-| Focus | Details |
-|-------|---------|
-| Experience | Clean, distraction-free reading |
-| Platform | iOS app in active development |
-| Design | Minimal UI, reduced cognitive load, readable information hierarchy |
-| Goal | Improve how people consume, scan, and understand news |
-
 **Links** — [App Releases](https://github.com/McCal-Codes/abridgd/releases) · [Repo](https://github.com/McCal-Codes/abridgd)
 
 ---
 
-### WordPress & PHP Development
+### McCal Media
 
-Client-focused website development, customization, and CMS workflow improvements using WordPress and PHP.
-
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMS-3A5A40?style=flat-square" />
-  <img src="https://img.shields.io/badge/Client%20Sites-B08968?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web%20Maintenance-264653?style=flat-square" />
-</p>
-
-| Focus | Details |
-|-------|---------|
-| CMS Work | WordPress site setup, customization, and maintenance |
-| PHP | Theme edits, template logic, and plugin-oriented workflows |
-| Frontend | HTML, CSS, responsive layout, and UI refinements |
-| Client Systems | Forms, content structure, site updates, and workflow fixes |
-| Goal | Build practical, maintainable websites for real-world users and organizations |
-
----
-
-### McCal Media Platform
-
-A custom-built web platform for publishing photography, editorial work, and media projects.
+A custom web platform for photography, editorial work, podcasting, and media projects.
 
 <p>
   <img src="https://img.shields.io/badge/Web%20Platform-B08968?style=flat-square" />
-  <img src="https://img.shields.io/badge/Design%20System-D4A373?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frontend-1D3557?style=flat-square" />
   <img src="https://img.shields.io/badge/Photography-6D597A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Storytelling-D4A373?style=flat-square" />
 </p>
 
-| Focus | Details |
-|-------|---------|
-| System | Modular web platform for publishing photography and media |
-| UI | Design-token-driven layout and reusable components |
-| Platform | Custom-coded site architecture |
-| Goal | Full control over presentation, storytelling, and portfolio structure |
-
 **Links** — [Website](https://mcc-cal.com)
-
----
-
-## How I Build
-
-I approach systems through a consistent architecture:
-
-```txt
-Inputs / State  →  Transformations, logic, constraints  →  Outputs, side effects, UI, behavior
-````
-
-This keeps projects structured, debuggable, and easier to extend.
 
 ---
 
@@ -197,23 +114,6 @@ This keeps projects structured, debuggable, and easier to extend.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,swift,php,wordpress,nodejs,git,github,vscode,figma,java,cpp,python,docker,sqlite" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F4A261?style=flat-square&logo=javascript&logoColor=111" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-457B9D?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E63946?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1D3557?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-264653?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SWIFT-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/NODE-588157?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-2A9D8F?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIGMA-7B2CBF?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/DOCKER-457B9D?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOCAL%20AI-3A5A40?style=flat-square" />
 </p>
 
 ---
@@ -224,11 +124,9 @@ I work as a photojournalist, event photographer, and visual storyteller.
 
 **Published in:** The New York Post · Pittsburgh Magazine · PublicSource · Union Progress · Technical.ly · TribLive
 
-Focus: real-world storytelling, editorial assignments, events, documentary photography, and visual systems for publishing work.
-
 ---
 
-## Featured Repositories
+## GitHub
 
 <p align="center">
   <a href="https://github.com/McCal-Codes/TerraNova">
@@ -245,29 +143,9 @@ Focus: real-world storytelling, editorial assignments, events, documentary photo
   </a>
 </p>
 
----
-
-## Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=McCal-Codes&show_icons=true&theme=dark&bg_color=2F3E46&title_color=B08968&icon_color=B08968&text_color=ffffff&border_color=3C6E71&hide_border=false&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McCal-Codes&layout=compact&theme=dark&bg_color=2F3E46&title_color=B08968&text_color=ffffff&border_color=3C6E71&langs_count=8" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=McCal-Codes&theme=dark&background=2F3E46&ring=B08968&fire=B08968&currStreakLabel=B08968&sideLabels=B08968&dates=ffffff&border=3C6E71" />
-</p>
-
----
-
-## Current Focus
-
-* Expanding TerraNova into a full terrain design tool
-* Building Ferret as a local-first AI agent system
-* Developing Abridgd as an open-source reading platform
-* Building scalable web platforms with TypeScript and modern frontend tooling
-* Improving WordPress and PHP workflows for client websites
-* Continuing editorial and documentary photography
 
 ---
 
@@ -283,6 +161,5 @@ Focus: real-world storytelling, editorial assignments, events, documentary photo
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B08968,100:2F3E46&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B08968,100:2F3E46&height=100&section=footer" />
 </p>
-```
