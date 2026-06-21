@@ -1,13 +1,14 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F3E46,100:B08968&height=200&section=header&text=Caleb%20McCartney&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <strong>Self-taught Full Stack Developer focused on scalable web applications, developer tools, local AI systems, CMS workflows, and user-centered interfaces.</strong>
+  <strong>Developer, photographer, and systems builder focused on creative tools, local AI workflows, CMS platforms, and user-centered interfaces.</strong>
 </p>
 
 <p align="center">
-  Experience developing procedural systems, frontend applications, WordPress/PHP sites, creative tools, and custom platforms. Strong background in design, storytelling, and UX through professional photography and photojournalism work.
+  I build procedural systems, frontend applications, WordPress/PHP sites, creative workflow tools, and custom platforms. My background in professional photography and photojournalism shapes how I approach design, storytelling, usability, and real-world workflows.
 </p>
 
 <p align="center">
@@ -19,7 +20,7 @@
 ## Downloads
 
 <p align="center">
-  <a href="[https://github.com/HyperSystems-Development/TerraNova/releases](https://github.com/McCal-Codes/TerraNova/releases)">
+  <a href="https://github.com/McCal-Codes/TerraNova/releases">
     <img src="https://img.shields.io/badge/TerraNova-Download%20Builds-3A5A40?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/McCal-Codes/abridgd/releases">
@@ -39,7 +40,7 @@
 
 I'm a developer, photographer, and systems builder based in Pennsylvania.
 
-My work focuses on building **procedural systems, creative tools, local AI workflows, CMS/client sites, and web platforms** that prioritize clarity, usability, and real-world impact.
+My work focuses on building **procedural systems, creative tools, local AI workflows, CMS/client sites, and web platforms** that prioritize clarity, usability, maintainability, and real-world impact.
 
 **Areas of focus:**
 
@@ -56,7 +57,7 @@ My work focuses on building **procedural systems, creative tools, local AI workf
 
 ### TerraNova
 
-A terrain generation studio for the Hytale ecosystem, focused on procedural systems, biome design, and creator tooling.
+A terrain generation studio for the Hytale ecosystem, focused on procedural systems, biome design, worldgen editing, and creator tooling.
 
 **Editor & Terrain System**
 
@@ -83,10 +84,10 @@ A terrain generation studio for the Hytale ecosystem, focused on procedural syst
 | Core Systems | Terrain density, biome composition, worldgen logic |
 | Editor | Node-based terrain editing and live preview tooling |
 | Environment | Weather, lighting, atmosphere, tint, and biome mood systems |
-| Role | Contributor focused on systems, tooling, UI, and workflow design |
+| Role | Creator and developer focused on systems, tooling, UI, and workflow design |
 | Goal | Make complex worldgen accessible, visual, and controllable for creators |
 
-**Links** — [Download](https://github.com/HyperSystems-Development/TerraNova/releases) · [Repo](https://github.com/HyperSystems-Development/TerraNova)
+**Links** — [Download](https://github.com/McCal-Codes/TerraNova/releases) · [Repo](https://github.com/McCal-Codes/TerraNova)
 
 ---
 
@@ -184,9 +185,9 @@ A custom-built web platform for publishing photography, editorial work, and medi
 
 I approach systems through a consistent architecture:
 
-```
+```txt
 Inputs / State  →  Transformations, logic, constraints  →  Outputs, side effects, UI, behavior
-```
+````
 
 This keeps projects structured, debuggable, and easier to extend.
 
@@ -230,8 +231,8 @@ Focus: real-world storytelling, editorial assignments, events, documentary photo
 ## Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/HyperSystems-Development/TerraNova">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HyperSystems-Development&repo=TerraNova&theme=dark&bg_color=2F3E46&title_color=B08968&icon_color=B08968&text_color=ffffff&border_color=3C6E71" />
+  <a href="https://github.com/McCal-Codes/TerraNova">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=McCal-Codes&repo=TerraNova&theme=dark&bg_color=2F3E46&title_color=B08968&icon_color=B08968&text_color=ffffff&border_color=3C6E71" />
   </a>
   <a href="https://github.com/McCal-Codes/Ferret">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=McCal-Codes&repo=Ferret&theme=dark&bg_color=2F3E46&title_color=B08968&icon_color=B08968&text_color=ffffff&border_color=3C6E71" />
@@ -261,12 +262,12 @@ Focus: real-world storytelling, editorial assignments, events, documentary photo
 
 ## Current Focus
 
-- Expanding TerraNova into a full terrain design tool
-- Building Ferret as a local-first AI agent system
-- Developing Abridgd as an open-source reading platform
-- Building scalable web platforms with TypeScript and modern frontend tooling
-- Improving WordPress and PHP workflows for client websites
-- Continuing editorial and documentary photography
+* Expanding TerraNova into a full terrain design tool
+* Building Ferret as a local-first AI agent system
+* Developing Abridgd as an open-source reading platform
+* Building scalable web platforms with TypeScript and modern frontend tooling
+* Improving WordPress and PHP workflows for client websites
+* Continuing editorial and documentary photography
 
 ---
 
@@ -284,3 +285,4 @@ Focus: real-world storytelling, editorial assignments, events, documentary photo
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B08968,100:2F3E46&height=120&section=footer" />
 </p>
+```
