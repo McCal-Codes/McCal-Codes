@@ -19,7 +19,7 @@
 ## Downloads
 
 <p align="center">
-  <a href="https://github.com/HyperSystems-Development/TerraNova/releases">
+  <a href="[https://github.com/HyperSystems-Development/TerraNova/releases](https://github.com/McCal-Codes/TerraNova/releases)">
     <img src="https://img.shields.io/badge/TerraNova-Download%20Builds-3A5A40?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/McCal-Codes/abridgd/releases">
