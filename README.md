@@ -18,8 +18,11 @@
   <a href="https://github.com/McCal-Codes/abridgd/releases">
     <img src="https://img.shields.io/badge/Abridgd-iOS%20Builds-6D597A?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
-  <a href="https://github.com/McCal-Codes/Ferret">
-    <img src="https://img.shields.io/badge/Ferret-Local%20AI%20Agent-3C6E71?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/McCal-Codes/folio">
+    <img src="https://img.shields.io/badge/Folio-Android%20Launcher-3C6E71?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+  <a href="https://github.com/McCal-Codes/apature">
+    <img src="https://img.shields.io/badge/Apature-Photo%20Workflow-8D6A4F?style=for-the-badge&logo=rust&logoColor=white" />
   </a>
   <a href="https://mcc-cal.com">
     <img src="https://img.shields.io/badge/Website-mcc--cal.com-B08968?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -36,11 +39,11 @@ My work sits at the intersection of **software, storytelling, design, and system
 
 **Current focus:**
 
-- Procedural world generation tools
-- Local-first AI agents and developer workflows
-- Web platforms and CMS/client sites
+- Folio, an iOS-style launcher for Android foldables
+- Apature, a keyboard-first culling and delivery tool for photojournalists
+- Abridgd, a calm local-news reader for Pittsburgh
+- Procedural world generation tools for Hytale
 - Editorial and documentary photography
-- Creative workflow automation
 
 ---
 
@@ -61,29 +64,43 @@ A terrain generation studio for the Hytale ecosystem, focused on worldgen editin
   <img src="https://img.shields.io/badge/Hytale-B08968?style=flat-square" />
 </p>
 
-**Links** — [Download](https://github.com/McCal-Codes/TerraNova/releases) · [Repo](https://github.com/McCal-Codes/TerraNova)
+**Links** — [Download](https://github.com/McCal-Codes/TerraNova/releases) · [Repo](https://github.com/McCal-Codes/TerraNova) · [TerraNova Lab](https://github.com/McCal-Codes/terranova-lab) (online top-down visualizer)
 
 ---
 
-### Ferret
+### Folio
 
-A local-first AI agent system for coding, debugging, automation, and tool orchestration.
+A clean, iPhone-style Home Screen for Android foldables like the Galaxy Z Fold, with jailbreak-inspired tweaks. Free, open source, no root. Tweaks, themes and layouts are published as signed sources, and Keyd is a companion keyboard.
 
 <p>
-  <img src="https://img.shields.io/badge/Local%20AI-3A5A40?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agent%20Architecture-588157?style=flat-square" />
-  <img src="https://img.shields.io/badge/Developer%20Tools-3C6E71?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ollama-264653?style=flat-square" />
-  <img src="https://img.shields.io/badge/MCP-6D597A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kotlin-3A5A40?style=flat-square" />
+  <img src="https://img.shields.io/badge/Android-588157?style=flat-square" />
+  <img src="https://img.shields.io/badge/Launcher-3C6E71?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-2A9D8F?style=flat-square" />
 </p>
 
-**Links** — [Repo](https://github.com/McCal-Codes/Ferret)
+**Links** — [Repo](https://github.com/McCal-Codes/folio) · [Keyd keyboard](https://github.com/McCal-Codes/folio-keyd) · [Tweaks](https://github.com/McCal-Codes/folio-tweaks) · [Source template](https://github.com/McCal-Codes/folio-source-template)
+
+---
+
+### Apature
+
+Keyboard-first contact sheet, culling, captions, export, and delivery for photojournalists. The Photo Mechanic loop, rebuilt in Rust for macOS. Free and open source.
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-8D6A4F?style=flat-square" />
+  <img src="https://img.shields.io/badge/macOS-264653?style=flat-square" />
+  <img src="https://img.shields.io/badge/Photojournalism-B08968?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-2A9D8F?style=flat-square" />
+</p>
+
+**Links** — [Repo](https://github.com/McCal-Codes/apature)
 
 ---
 
 ### Abridgd
 
-An open-source news reader focused on calmer reading, clarity, and reducing information overload.
+A calm, local-first news reader for Pittsburgh, built to make local news feel finite, readable, and worth returning to.
 
 <p>
   <img src="https://img.shields.io/badge/UX-6D597A?style=flat-square" />
@@ -92,7 +109,7 @@ An open-source news reader focused on calmer reading, clarity, and reducing info
   <img src="https://img.shields.io/badge/iOS-1D3557?style=flat-square" />
 </p>
 
-**Links** — [App Releases](https://github.com/McCal-Codes/abridgd/releases) · [Repo](https://github.com/McCal-Codes/abridgd)
+**Links** — [App Releases](https://github.com/McCal-Codes/abridgd/releases) · [Repo](https://github.com/McCal-Codes/abridgd) · [Site](https://github.com/McCal-Codes/abridgd-site)
 
 ---
 
@@ -110,10 +127,18 @@ A custom web platform for photography, editorial work, podcasting, and media pro
 
 ---
 
+### More
+
+- [Void Ledger](https://github.com/McCal-Codes/void-ledger): local-first Warframe Baro Ki'Teer planning app for Windows
+- [Ferret](https://github.com/McCal-Codes/Ferret): local-first AI agent system for coding and automation
+- [Claude Code system prompts research](https://github.com/McCal-Codes/claude-code-system-prompts): how agentic coding assistants work
+
+---
+
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,swift,php,wordpress,nodejs,git,github,vscode,figma,java,cpp,python,docker,sqlite" />
+  <img src="https://skillicons.dev/icons?i=kotlin,rust,ts,js,html,css,react,astro,swift,nodejs,python,java,cpp,powershell,git,github,vscode,figma,androidstudio" />
 </p>
 
 ---
@@ -132,12 +157,15 @@ I work as a photojournalist, event photographer, and visual storyteller.
   <a href="https://github.com/McCal-Codes/TerraNova">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=McCal-Codes&repo=TerraNova&theme=dark&bg_color=2F3E46&title_color=B08968&icon_color=B08968&text_color=ffffff&border_color=3C6E71" />
   </a>
-  <a href="https://github.com/McCal-Codes/Ferret">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=McCal-Codes&repo=Ferret&theme=dark&bg_color=2F3E46&title_color=B08968&icon_color=B08968&text_color=ffffff&border_color=3C6E71" />
+  <a href="https://github.com/McCal-Codes/folio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=McCal-Codes&repo=folio&theme=dark&bg_color=2F3E46&title_color=B08968&icon_color=B08968&text_color=ffffff&border_color=3C6E71" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/McCal-Codes/apature">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=McCal-Codes&repo=apature&theme=dark&bg_color=2F3E46&title_color=B08968&icon_color=B08968&text_color=ffffff&border_color=3C6E71" />
+  </a>
   <a href="https://github.com/McCal-Codes/abridgd">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=McCal-Codes&repo=abridgd&theme=dark&bg_color=2F3E46&title_color=B08968&icon_color=B08968&text_color=ffffff&border_color=3C6E71" />
   </a>
